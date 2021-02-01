@@ -2,4 +2,4 @@
 
 Repositorio del workshop para estudiantes de Ada ITW
 
-Disponible [click aquí](https://maarcf.github.io/match3/)
+Disponible [click aquí]()
