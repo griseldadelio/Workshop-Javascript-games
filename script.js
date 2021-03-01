@@ -9,11 +9,11 @@ let base = new Image();
 let pipeDown = new Image();
 let pipeUp = new Image();
 
-bird.src = '../Flappybird-game/assets/images/redbird-downflap.png';
-bg.src = '../Flappybird-game/assets/images/background-day.png';
-base.src = '../Flappybird-game/assets/images/base.png';
-pipeUp.src = '../Flappybird-game/assets/images/pipeDown.png';
-pipeDown.src = '../Flappybird-game/assets/images/pipeUp.png';
+bird.src = './img/redbird-downflap.png';
+bg.src = './img/background-day.png';
+base.src = './img/base.png';
+pipeUp.src = './img/pipeDown.png';
+pipeDown.src = './img/pipeUp.png';
 
 
 //variables
@@ -30,8 +30,8 @@ let score = 0;
 let fly = new Audio();
 let scor = new Audio();
 
-fly.src = '../workshop-juegos-flappy-bird-main/assets/audio/wing.ogg';
-scor.src = '../workshop-juegos-flappy-bird-main/assets/audio/point.ogg';
+fly.src = './audio/wing.ogg';
+scor.src = './audio/point.ogg';
 
 // on key down
 
